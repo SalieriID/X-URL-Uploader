@@ -84,7 +84,6 @@ async def echo(bot, update):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         Translation.UPLOAD_START,
-                        pablo,
                         start_time
                     )
                 )
@@ -98,7 +97,6 @@ async def echo(bot, update):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         Translation.UPLOAD_START,
-                        pablo,
                         start_time
                     )
                 )
@@ -111,7 +109,6 @@ async def echo(bot, update):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         Translation.UPLOAD_START,
-                        pablo,
                         start_time
                     )
                 )
